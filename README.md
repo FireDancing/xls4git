@@ -27,7 +27,8 @@ Call the python script with the location of the config-file (argument -c) and th
 The configuration is done in the x4g.ini-file
 
 ## Limitations
-This project was done mainly as "practical research" (i.e. trial and error) and was tested on one (quite big) internal Excel-project until xls4git worked. However, it is likely that in the depths of the internal XML-structure of Excel cases might occur, which are not yet considered.
+* This project was done mainly as "practical research" (i.e. trial and error) and was tested on one (quite big) internal Excel-project until xls4git worked. However, it is likely that in the depths of the internal XML-structure of Excel cases might occur, which are not yet considered.
+* Works only at Microsoft&reg; Windows platforms
 
 ## What I would like to do, if I had much for time for this
 * get rid of the VBAHandler, if somehow possible
